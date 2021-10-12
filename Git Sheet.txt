@@ -50,6 +50,11 @@ To merge the branch - git merge branch-name
 
 To revert changes in staging area - git reset HEAD file-name
 
+To revert the last commit - git reset HEAD~
+
+To clone a project - git clone clone-url
+
+
 
 
 
