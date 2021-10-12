@@ -48,6 +48,10 @@ To find out the no of branches - git branch
 
 To merge the branch - git merge branch-name
 
+To revert changes in staging area - git reset HEAD file-name
+
+
+
 
 
 
