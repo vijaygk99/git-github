@@ -44,6 +44,8 @@ To create a branch - git branch branch-name
 
 To switch to a branch - git checkout branch-name 
 
+To find out the no of branches - git branch
+
 
 
 
