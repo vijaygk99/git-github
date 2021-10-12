@@ -1,0 +1,49 @@
+Name Change - git config --global user.name "Name"
+
+Email change - git config --global user.email "Email"
+
+To view configuration Properties - git config --list
+
+To view Help - git help
+
+To view Help on Specific Command - git help specify-the-command
+
+To view the current directory - pwd
+
+To view the items in the directory - ls
+
+To move to previous directory - cd ..
+
+To initialize git in a directory - git init
+
+To know the status of git project - git status
+
+To add file to git - git add file-name
+
+To add entire files in the directory to git - git add .
+
+To commit the changes with message - git commit -m "message"
+
+To see the commit changes log - git log
+
+To see the commit changes log of particular person - git log --author="name"
+
+To see the changes in the files - git diff
+
+To compare stage area files and git repository files - git diff --staged
+
+To delete a file - git rm file-name
+
+To sync with the remote repository - git remote add origin "Repository-url"
+
+To pull from remote repository - git pull origin branch-name
+
+To push to remote repository - git push origin branch-name
+
+
+
+
+
+
+
+
