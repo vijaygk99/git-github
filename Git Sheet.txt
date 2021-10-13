@@ -72,6 +72,9 @@ To compare stage area and git repository - git diff --staged HEAD
 
 To compare the commit - git diff commit-id commit-id
 
+To rename a branch - git branch -m branch-name new-branch-name
+
+To delete a branch - git branch -d branch-name 
 
 
 
