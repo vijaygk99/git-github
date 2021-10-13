@@ -56,6 +56,24 @@ To clone a project - git clone clone-url
 
 To backout changes in working area - git checkout --file-name
 
+To delete a no of files in directory - git rm -rf directory-name
+
+To rename a file - git mv file-name new-file-name
+
+To move a file - git mv file-name folder-name
+
+To create an alias - git config –global alias.<short_cmnd> “long Cmnd”
+
+To edit the configuration in git - editor-name ~/.gitconfig
+
+To compare current working directory with repository - git diff head
+
+To compare stage area and git repository - git diff --staged HEAD
+
+To compare the commit - git diff commit-id commit-id
+
+
+
 
 
 
