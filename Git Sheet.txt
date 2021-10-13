@@ -54,7 +54,7 @@ To revert the last commit - git reset HEAD~
 
 To clone a project - git clone clone-url
 
-
+To backout changes in working area - git checkout --file-name
 
 
 
