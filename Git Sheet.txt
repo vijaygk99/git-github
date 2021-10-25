@@ -76,7 +76,7 @@ To rename a branch - git branch -m branch-name new-branch-name
 
 To delete a branch - git branch -d branch-name 
 
-
+To view the merge graph - git log --oneline --graph --decorate --all
 
 
 
