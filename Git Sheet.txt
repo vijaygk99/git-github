@@ -78,7 +78,15 @@ To delete a branch - git branch -d branch-name
 
 To view the merge graph - git log --oneline --graph --decorate --all
 
+To delete a branch - git branch -d branch-name
 
+To rebase a branch - git rebase branch-name 
+
+To abort a rebase - git rebase --abort
+
+To continue rebase - git rebase --continue
+
+To skip in rebase - git rebase --skip
 
 
 
