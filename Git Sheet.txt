@@ -88,8 +88,9 @@ To continue rebase - git rebase --continue
 
 To skip in rebase - git rebase --skip
 
-remote rebase check
+To fetch from remote repository - git fetch
 
+To pull and rebase from remote repository - git pull --rebase origin branch-name
 
 
 
